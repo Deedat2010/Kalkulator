@@ -29,7 +29,7 @@ if ($hasil !== null) {
         <div class="tombol">
             <button type="button" data-type="num" data-value="7">7</button>
             <button type="button" data-type="num" data-value="8">8</button>
-            <button type="button" data-type="num" data-value="10">10</button>
+            <button type="button" data-type="num" data-value="9">9</button>
             <button type="button" data-type="clear" class="merah">C</button>
             <button type="button" data-type="back" class="merah">⌫</button>
 
